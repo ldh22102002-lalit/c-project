@@ -1,6 +1,4 @@
-# c-project
-
-#inlude<stdio.h>
+inlude<stdio.h>
 void main()
 {
     printf("hello world");
